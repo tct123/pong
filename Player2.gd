@@ -1,7 +1,7 @@
-extends KinematicBody2D
+extends CharacterBody2D
 
 var movement = Vector2();
-export(int) var score = 0;
+@export var score: int = 0;
 
 func _process(_delta):
 	if Input.is_action_pressed("player2_up"):
@@ -11,4 +11,5 @@ func _process(_delta):
 	else:
 		movement.y = 0;
 		
-	move_and_slide(movement);
+	set_velocity(movement)
+	move_and_slide();

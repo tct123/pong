@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1692428915
+Ball.gd::GDScript::-1::1692428895::0::1::::<>CharacterBody2D<>::
+default_env.tres::Environment::-1::1692428895::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1692428811::0::1::::<><>::
+Game.gd::GDScript::-1::1692428895::0::1::::<>Node2D<>::
+Game.tscn::PackedScene::-1::1692428895::0::1::::<><>::res://Player1.gd<>res://icon.png<>res://Player2.gd<>res://Ball.gd<>res://Game.gd
+icon.png::CompressedTexture2D::924335000646006318::1692428811::1692428917::1::::<><>::
+Player1.gd::GDScript::-1::1692428895::0::1::::<>CharacterBody2D<>::
+Player2.gd::GDScript::-1::1692428895::0::1::::<>CharacterBody2D<>::
+README.md::TextFile::-1::1692428811::0::1::::<><>::
